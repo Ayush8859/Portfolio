@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const commandSpan = document.querySelector(' .command-text');
 
     if (terminalContainer && terminalContent && commandSpan){
-        const commandText = "https://github.com/Ayush8859";
+        const commandText = " https://ayush8859.github.io/Portfolio/";
 
         let i = 0;
         const typeCommand =() => {
